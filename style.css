@@ -171,55 +171,40 @@ h1 {
   background: var(--accent-soft);
 }
 
-.pub-list {
-  display: grid;
-  gap: 0.8rem;
-  margin-top: 0.9rem;
-}
-
-.pub-item {
-  border: 1px solid var(--line);
-  border-radius: 10px;
-  padding: 0.78rem 0.85rem;
-  background: #fff;
-}
-
-.pub-item p {
-  margin: 0.4rem 0 0;
-}
-
-.pub-tags {
-  display: flex;
-  gap: 0.4rem;
-  flex-wrap: wrap;
-}
-
-.tag {
-  display: inline-block;
-  font-size: 0.75rem;
-  border: 1px solid var(--line);
-  border-radius: 999px;
-  padding: 0.1rem 0.5rem;
-  background: #f9fafb;
-  color: var(--muted);
-}
-
-.tag-good {
-  border-color: #86c6b9;
-  background: var(--accent-soft);
-  color: #175952;
-}
-
-.tag-warn {
-  border-color: #ebc98b;
-  background: var(--warn-soft);
-  color: var(--warn);
-}
-
 .grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 1rem;
+}
+
+.markdown h2 {
+  margin: 1.2rem 0 0.55rem;
+  font-size: 1.16rem;
+}
+
+.markdown h2:first-child {
+  margin-top: 0;
+}
+
+.markdown p,
+.markdown li {
+  color: var(--ink);
+}
+
+.markdown ul,
+.markdown ol {
+  margin: 0.15rem 0 0.85rem;
+  padding-left: 1.2rem;
+}
+
+.markdown li {
+  margin-bottom: 0.5rem;
+}
+
+.hint p {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.92rem;
 }
 
 .footer {
