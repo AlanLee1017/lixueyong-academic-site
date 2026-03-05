@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# 部署后将 your-domain.com 替换为你的真实域名
+Sitemap: https://your-domain.com/sitemap.xml
