@@ -30,6 +30,12 @@
 - Data skills: Python / Stata / R / ArcGIS
 - Reviewer: *Finance Research Letters*, *Economic Modelling*
 
+## Academic WeChat Account
+
+Welcome to follow my academic WeChat account **一只熊的学术路** by scanning the QR code.
+
+![WeChat QR Code](wechat-qr.png)
+
 ## Honors (Selected)
 
 - Outstanding Teaching Assistant, Xiamen University (2022-2023)

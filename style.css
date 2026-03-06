@@ -201,6 +201,17 @@ h1 {
   margin-bottom: 0.5rem;
 }
 
+.markdown img {
+  display: block;
+  width: min(260px, 85vw);
+  height: auto;
+  margin: 0.6rem 0 0.9rem;
+  border-radius: 10px;
+  border: 1px solid var(--line);
+  box-shadow: var(--shadow);
+  background: #fff;
+}
+
 .hint p {
   margin: 0;
   color: var(--muted);

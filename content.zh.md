@@ -30,6 +30,12 @@
 - 数据技能：Python / Stata / R / ArcGIS
 - 审稿：*Finance Research Letters*，*Economic Modelling*
 
+## 学术公众号
+
+欢迎大家扫码关注我的学术公众号 **一只熊的学术路**。
+
+![公众号二维码](wechat-qr.png)
+
 ## 荣誉奖励（节选）
 
 - 厦门大学经济学科 2022-2023 学年优秀助教
