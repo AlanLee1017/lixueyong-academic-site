@@ -32,13 +32,8 @@
 
 ## Academic WeChat Account
 
+<div class="qr-center">
 Welcome to follow my academic WeChat account **一只熊的学术路** by scanning the QR code.
 
 ![WeChat QR Code](wechat-qr.png)
-
-## Honors (Selected)
-
-- Outstanding Teaching Assistant, Xiamen University (2022-2023)
-- Outstanding Summer Field Research Report (2022)
-- Excellent Youth League Member, School of Economics (2021)
-- Outstanding Graduate, Jiangxi University of Finance and Economics (2019)
+</div>
