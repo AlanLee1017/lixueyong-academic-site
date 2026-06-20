@@ -29,7 +29,9 @@ jobs:
         run: |
           mkdir -p _site
           cp index.html style.css script.js robots.txt sitemap.xml content.zh.md content.en.md "李学勇的简历.pdf" _site/
+          if [ -d assets ]; then cp -R assets _site/; fi
           if [ -f wechat-qr.png ]; then cp wechat-qr.png _site/; fi
+          if [ -f CNAME ]; then cp CNAME _site/; fi
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

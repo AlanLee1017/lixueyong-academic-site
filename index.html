@@ -3,56 +3,123 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="李学勇个人学术主页：数字经济与发展经济学研究，论文、工作论文、项目与教学经历。" />
-    <meta name="keywords" content="李学勇, 学术主页, 数字经济, 发展经济学, 厦门大学" />
-    <meta name="theme-color" content="#f4efe4" />
+    <meta name="description" content="李学勇个人学术主页：数字经济、发展经济学、论文发表、工作论文、项目经历与教学经历。" />
+    <meta name="keywords" content="李学勇, 学术主页, 数字经济, 发展经济学, 厦门大学, 个人简历" />
+    <meta name="theme-color" content="#f7f2e8" />
     <title>李学勇 | Academic Homepage</title>
+    <link rel="icon" href='data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"%3E%3Crect width="64" height="64" fill="%2318191b"/%3E%3Ctext x="32" y="43" text-anchor="middle" font-size="34" font-family="serif" fill="%23fffdf8"%3EL%3C/text%3E%3C/svg%3E' />
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
-    <div class="bg bg-a" aria-hidden="true"></div>
-    <div class="bg bg-b" aria-hidden="true"></div>
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="李学勇个人主页">
+        <span class="brand-mark" aria-hidden="true">李</span>
+        <span>
+          <strong>李学勇</strong>
+          <small>Academic Homepage</small>
+        </span>
+      </a>
 
-    <main class="container">
-      <header class="hero reveal">
-        <div>
-          <p class="eyebrow">Academic Homepage</p>
-          <h1>李学勇</h1>
-          <p class="lead t-zh">厦门大学西方经济学博士研究生（硕博连读）</p>
-          <p class="lead t-en">PhD Candidate (Integrated Program), School of Economics, Xiamen University</p>
-          <p class="lead t-zh">研究方向：数字经济、发展经济学</p>
-          <p class="lead t-en">Research Fields: Digital Economy, Development Economics</p>
+      <nav class="top-nav" aria-label="页面导航">
+        <a href="#research" class="t-zh">研究</a>
+        <a href="#research" class="t-en">Research</a>
+        <a href="#zh-papers" class="t-zh" data-anchor="papers">论文</a>
+        <a href="#en-papers" class="t-en" data-anchor="papers">Papers</a>
+        <a href="#zh-projects" class="t-zh" data-anchor="projects">项目</a>
+        <a href="#en-projects" class="t-en" data-anchor="projects">Projects</a>
+      </nav>
+
+      <button id="lang-toggle" type="button" class="lang-toggle" aria-label="切换到英文">EN</button>
+    </header>
+
+    <main id="top">
+      <section class="hero">
+        <div class="hero-copy reveal">
+          <p class="eyebrow">Digital Economy · Development Economics</p>
+          <h1>
+            <span class="t-zh">李学勇</span>
+            <span class="t-en">Xueyong Li</span>
+          </h1>
+          <p class="lead t-zh">厦门大学经济学院西方经济学博士研究生（硕博连读），关注数字平台、发展经济与中国经济转型。</p>
+          <p class="lead t-en">PhD Candidate in Western Economics at Xiamen University, studying digital platforms, development economics, and China's economic transformation.</p>
+
+          <div class="hero-actions" aria-label="主要操作">
+            <a class="button primary" href="李学勇的简历.pdf" target="_blank" rel="noopener">
+              <span aria-hidden="true">↓</span>
+              <span class="t-zh">下载简历 PDF</span>
+              <span class="t-en">Download CV</span>
+            </a>
+            <a class="button" href="mailto:lixueyong_work@163.com">
+              <span aria-hidden="true">@</span>
+              <span class="t-zh">邮件联系</span>
+              <span class="t-en">Email</span>
+            </a>
+          </div>
+
+          <dl class="quick-facts" aria-label="个人概览">
+            <div>
+              <dt class="t-zh">单位</dt>
+              <dt class="t-en">Affiliation</dt>
+              <dd class="t-zh">厦门大学</dd>
+              <dd class="t-en">Xiamen University</dd>
+            </div>
+            <div>
+              <dt class="t-zh">方向</dt>
+              <dt class="t-en">Fields</dt>
+              <dd class="t-zh">数字经济 / 发展经济学</dd>
+              <dd class="t-en">Digital Economy / Development</dd>
+            </div>
+            <div>
+              <dt class="t-zh">发表</dt>
+              <dt class="t-en">Publications</dt>
+              <dd class="t-zh">2 篇期刊论文</dd>
+              <dd class="t-en">2 journal articles</dd>
+            </div>
+          </dl>
         </div>
 
-        <div class="hero-actions">
-          <button id="lang-toggle" type="button" class="btn btn-primary" aria-label="切换语言">EN</button>
-          <a class="btn" href="李学勇的简历.pdf" target="_blank" rel="noopener">
-            <span class="t-zh">下载简历（PDF）</span>
-            <span class="t-en">Download CV (PDF)</span>
-          </a>
-        </div>
+      </section>
 
-        <nav class="contact" aria-label="联系方式">
-          <a href="mailto:lixueyong_work@163.com">lixueyong_work@163.com</a>
-        </nav>
-      </header>
+      <section class="landscape-photos reveal" style="--d: 0.1s" aria-label="山水风景照片">
+        <img src="assets/photos/mountain-river.jpg" alt="群山环绕的蓝色河湾" loading="lazy" />
+        <img src="assets/photos/lake-hills.jpg" alt="云雾中的绿色山地" loading="lazy" />
+        <img src="assets/photos/forest-mountain.jpg" alt="落日照亮的红色山谷" loading="lazy" />
+      </section>
 
-      <section class="card reveal" style="--d: 0.05s">
+      <section class="feature-strip reveal" style="--d: 0.12s" id="research">
+        <article>
+          <span>01</span>
+          <h2 class="t-zh">数字平台与包容性</h2>
+          <h2 class="t-en">Digital Platforms & Inclusion</h2>
+          <p class="t-zh">围绕平台可及性、数字鸿沟与线上投资行为，使用微观数据识别数字化的真实经济后果。</p>
+          <p class="t-en">Studies platform accessibility, digital divides, and online investment behavior with micro-level evidence.</p>
+        </article>
+        <article>
+          <span>02</span>
+          <h2 class="t-zh">发展与历史经验</h2>
+          <h2 class="t-en">Development & Historical Experience</h2>
+          <p class="t-zh">关注历史冲击、制度变迁与区域经济韧性之间的长期关系。</p>
+          <p class="t-en">Examines long-run links among historical shocks, institutions, and regional economic resilience.</p>
+        </article>
+        <article>
+          <span>03</span>
+          <h2 class="t-zh">家庭与消费变化</h2>
+          <h2 class="t-en">Households & Consumption</h2>
+          <p class="t-zh">参与《中国家庭财富与消费报告》写作与图表制作，聚焦家庭预期与消费变化。</p>
+          <p class="t-en">Contributes to household wealth and consumption reporting, with a focus on expectations and consumption shifts.</p>
+        </article>
+      </section>
+
+      <section class="content-shell reveal" style="--d: 0.16s">
         <article id="content-zh" class="markdown t-zh" aria-live="polite"></article>
         <article id="content-en" class="markdown t-en" aria-live="polite"></article>
       </section>
-
-      <section class="card reveal hint" style="--d: 0.1s">
-        <p class="t-zh"><strong>内容维护方式：</strong>只需修改项目根目录里的 <code>content.zh.md</code>（中文）和 <code>content.en.md</code>（英文），提交并推送后网站会自动更新。</p>
-        <p class="t-en"><strong>How to update:</strong> Edit <code>content.zh.md</code> (Chinese) and <code>content.en.md</code> (English), then commit and push.</p>
-      </section>
-
-      <footer class="footer reveal" style="--d: 0.15s">
-        <p>© <span id="year"></span> 李学勇 · Xiamen University</p>
-      </footer>
     </main>
 
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <footer class="footer">
+      <p>© <span id="year"></span> 李学勇 · Xiamen University · <a href="mailto:lixueyong_work@163.com">lixueyong_work@163.com</a></p>
+    </footer>
+
     <script src="script.js"></script>
   </body>
 </html>
