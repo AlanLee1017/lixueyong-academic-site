@@ -1,8 +1,12 @@
 ## Education
 
-- **Xiamen University · Western Economics** (PhD Candidate, 2021 - Present)
+- **Xiamen University · Western Economics** (Ph.D., completed)
 - **Xiamen University · Political Economy** (M.A., 2019.09 - 2021.06)
 - **Jiangxi University of Finance and Economics · Finance** (B.A., 2015.09 - 2019.06)
+
+## Current Position
+
+- **School of Digital Economy, Jiangxi University of Finance and Economics**
 
 ## Publications
 
@@ -29,11 +33,3 @@
 - TA courses: Chinese Economic History, Chinese Economy, Econometrics, Microeconomics, Principles of Economics
 - Data skills: Python / Stata / R / ArcGIS
 - Reviewer: *Finance Research Letters*, *Economic Modelling*
-
-## Academic WeChat Account
-
-<div class="qr-center">
-Welcome to follow my academic WeChat account **一只熊的学术路** by scanning the QR code.
-
-![WeChat QR Code](wechat-qr.png)
-</div>
