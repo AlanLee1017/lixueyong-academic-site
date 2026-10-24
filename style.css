@@ -314,7 +314,7 @@ h1 {
 
 .feature-strip {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   margin: 0 0 clamp(2.3rem, 5vw, 4rem);
   border-top: 2px solid var(--line-strong);
   border-bottom: 1px solid var(--line-strong);
