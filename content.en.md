@@ -11,14 +11,16 @@
 ## Research Interests
 
 - Individual consumption and investment behavior
-- Labor mobility and rural development
-- Banking reform and financial institutions
-- Data elements and corporate finance
+- Labor mobility
+- Banking reform
+- Corporate finance
+- Data elements
 
 ## Publications
 
 1. Li, Jianan; Li, Xueyong. "Platform Accessibility and the Digital Divide." *China Economic Quarterly*, 2025(4): 943-960. (Cover article; corresponding author)
 2. Wang, Wennanxiang; Hu, Ridong; Li, Xueyong. "Contagion in Institutional Gambling Behavior." *Research on Financial Regulation*, 2024(3): 60-79. (Corresponding author)
+3. Liu, Jianjun; Yu, Mi; Li, Xueyong; Wang, Wennanxiang. "Carrots and Sticks: How Does the Social Credit Environment Inhibit Corporate ESG Greenwashing?" *Asia-Pacific Financial Markets*, published online November 18, 2026. [DOI: 10.1007/s10690-026-09660-9](https://doi.org/10.1007/s10690-026-09660-9)
 
 ## Working Papers
 
