@@ -20,7 +20,7 @@
 
 1. 李嘉楠、李学勇，《平台助盲降低数字鸿沟——基于应用程序视觉无障碍功能的经验证据》，《经济学（季刊）》2025 年第 4 期，943-960 页（封面文章，通讯作者，导师一作）。
 2. 王文南翔、胡日东、李学勇，《机构投资者博彩行为的传染——基金竞争网络与彩票型股票资产配置》，《金融监管研究》2024 年第 3 期，60-79 页（通讯作者）。
-3. 刘建军、俞幂、李学勇、王文南翔，《Carrots and Sticks: How Does the Social Credit Environment Inhibit Corporate ESG Greenwashing?》，*Asia-Pacific Financial Markets*，2026 年 11 月 18 日在线发表。DOI: [10.1007/s10690-026-09660-9](https://doi.org/10.1007/s10690-026-09660-9)。
+3. Liu, Jianjun; Yu, Mi; Li, Xueyong; Wang, Wennanxiang. 《Carrots and Sticks: How Does the Social Credit Environment Inhibit Corporate ESG Greenwashing?》, *Asia-Pacific Financial Markets*，2026 年 11 月 18 日在线发表。DOI: [10.1007/s10690-026-09660-9](https://doi.org/10.1007/s10690-026-09660-9)。
 
 ## 工作论文
 
