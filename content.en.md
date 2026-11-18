@@ -8,6 +8,13 @@
 
 - **School of Digital Economy, Jiangxi University of Finance and Economics**
 
+## Research Interests
+
+- Individual consumption and investment behavior
+- Labor mobility and rural development
+- Banking reform and financial institutions
+- Data elements and corporate finance
+
 ## Publications
 
 1. Li, Jianan; Li, Xueyong. "Platform Accessibility and the Digital Divide." *China Economic Quarterly*, 2025(4): 943-960. (Cover article; corresponding author)
