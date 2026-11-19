@@ -24,8 +24,6 @@
 
 ## Working Papers
 
-- E-Commerce Clusters and Rural Labor Return (with Jianan Li)
-- Cultural Beliefs and Risk-Taking on Digital Investment Platforms: Evidence from the Chinese Zodiac Birth Year (with Jianan Li and Cong Pang)
 - Echoes of Childhood: How the Officials' Famine Experiences Shape Urban Economic Resilience? (with Fengsheng Xu, under review in *Regional Science and Urban Economics*)
 - Trade Restrictions and the Development of the Service Sector: Evidence from the US-China Trade War (with Muxuan Wei, Zhengquan Cheng, revise and resubmit at *Economic Modelling* (RR))
 - Rural Banking Marketization and Economic Development: Evidence from China County-Level Data (with Yuanqian He and Muxuan Wei)
