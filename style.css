@@ -556,6 +556,10 @@ h1 {
   background: #fff;
 }
 
+.qr-center p {
+  margin: 0.3rem 0;
+}
+
 .footer {
   width: min(1240px, calc(100vw - 2rem));
   margin: 0 auto;

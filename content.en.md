@@ -4,10 +4,6 @@
 - **Xiamen University · Political Economy** (M.A., 2019.09 - 2021.06)
 - **Jiangxi University of Finance and Economics · Finance** (B.A., 2015.09 - 2019.06)
 
-## Current Position
-
-- **School of Digital Economy, Jiangxi University of Finance and Economics**
-
 ## Research Interests
 
 - Individual consumption and investment behavior
@@ -31,7 +27,6 @@
 
 ## Projects
 
-- NSFC Key Project: Identification, Monitoring and Governance of Relative Poverty (Contributor)
 - NSFC General Project: Globalization and China's Modern Economic Transformation (1860s-1930s) (Contributor)
 - China Household Wealth and Consumption Report (2025 Q1-Q2): writing and figure production
 
@@ -41,10 +36,15 @@
 - Data skills: Python / Stata / R / ArcGIS
 - Reviewer: *Finance Research Letters*, *Economic Modelling*
 
+## Public Service
+
+- Volunteer service at the Xiamen International Marathon in 2023 and 2024
+
 ## Academic WeChat Account
 
 <div class="qr-center">
-Welcome to follow my academic WeChat account **学术路上的一只熊** by scanning the QR code.
+Welcome to follow my academic WeChat account
+**学术路上的一只熊** by scanning the QR code.
 
 ![WeChat QR Code](wechat-qr.png)
 </div>
